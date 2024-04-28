@@ -1,3 +1,26 @@
+<p><strong>TOOLS YANG DIGUNAKAN</strong></p>
+<p><strong>-Laravel</strong></p>
+<p><strong>-Xampp (Versi 8.2.12)</strong></p>
+<p><strong>-Composer (Versi 2.7.3)</strong></p>
+<p><strong>-Git Bash (Versi 2.44.0.windows.1)</strong></p>
+<p><strong>-Diagram DrawIo (Versi 24.2.8)</strong></p>
+
+<p><strong>INSTALASI</strong></p>
+<p><strong>Sebelum menginstall laravel kita Membutuhkan:</strong></p>
+<p><strong>-Xampp</strong></p>
+<p><strong>-Composer</strong></p>
+
+<p><strong>Saya membuat GaleriWebFoto dengan menggunakan laravel. Saya membuat web foto ini dengan cara sederhana, ada beberapa fitur yang saya gunakan diantaranya:</strong></p>
+<p><strong>-Login</strong></p>
+<p><strong>-Registrasi</strong></p>
+<p><strong>-Logout</strong></p>
+<p><strong>-Menambah dan Menghapus Foto</strong></p>
+<p><strong>-Share dan Download foto</strong></p>
+
+![alt text](https://github.com/Ryszxsz/ryannn/blob/main/public/Screenshot%20(1).png?raw=true)
+
+![alt text](https://github.com/Ryszxsz/ryannn/blob/main/public/Screenshot%20(2).png?raw=true)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
